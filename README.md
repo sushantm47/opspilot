@@ -144,4 +144,3 @@ Docker, GitHub Actions, AWS CDK (ECS Fargate, RDS, ALB, Secrets Manager, CloudWa
 
 - [Design document](docs/DESIGN.md): requirements, SLOs, trade-offs, threat model, cost
 - [Operational runbook](docs/RUNBOOK.md): OpsPilot's own alarms and responses
-- [Interview guide](docs/INTERVIEW.md): pitch, walkthrough, likely questions
